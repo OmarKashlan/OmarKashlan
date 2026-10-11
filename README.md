@@ -8,7 +8,7 @@ Since 2024 I've been the only frontend developer at **MTS Internet Provider**. M
 |---|---|---|
 | [MTS GPS](https://gpscp.mts.sy) | Live fleet-tracking dashboard with map, trip history, and reports | Vue 3, Vuestic UI, REST APIs |
 | [MTS TV](https://tv.mts.sy) | IPTV streaming web app: movies, TV shows, courses, and live channels | Vue 3, Vue Router, REST APIs |
-| Makana.sy | News platform with server-side rendering | Nuxt 3, Vue 3 |
+| [Makana](https://makana-sy.com) | News platform with server-side rendering | Nuxt 3, Vue 3 |
 | [AylaPerf](https://aylaperf.com) | Arabic/English online perfume store (freelance) | WordPress, WooCommerce |
 | Clinic Management System | Desktop app in daily use at a rheumatology clinic (freelance) | Vue 3, Electron, Tailwind CSS |
 
